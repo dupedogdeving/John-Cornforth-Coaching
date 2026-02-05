@@ -1,0 +1,136 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&family=JetBrains+Mono:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;900&family=JetBrains+Mono:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPQ.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\jetbrainsmono\v24\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\jetbrainsmono\v24\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61C4E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyC4E.ttf
+Content Type: font/ttf
+
+Uri: https://tvmonsters.github.io/website/
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\index.htm
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/1770105612060_image.png
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\1770105612060_image.png
+Content Type: image/png
+
+Uri: https://tvmonsters.github.io/website/1770105642865_image.png
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\1770105642865_image.png
+Content Type: image/png
+
+Uri: https://tvmonsters.github.io/website/1770105654665_image.png
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\1770105654665_image.png
+Content Type: image/png
+
+Uri: https://tvmonsters.github.io/website/about.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\about.html
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/accolades.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\accolades.html
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/contact.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\contact.html
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/index.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\index.html
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/location.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\location.html
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/services.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\services.html
+Content Type: text/html
+
+Uri: https://tvmonsters.github.io/website/testimonials.html
+File Name: C:\Downloaded Web Sites\tvmonsters.github.io\website\testimonials.html
+Content Type: text/html
+
